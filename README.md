@@ -33,7 +33,7 @@ python main.py
 Файл
 
 ```
-inputnews.csv
+input/news.csv
 ```
 
 Формат
@@ -48,8 +48,9 @@ id,title,text
 Файл
 
 ```
-summaries.json
+output/summaries.json
 ```
+Пример выхода лежит внутри папки output
 
 Формат
 
