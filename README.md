@@ -50,8 +50,6 @@ id,title,text
 ```
 output/summaries.json
 ```
-Пример выхода лежит внутри папки output
-
 Формат
 
 ```json
@@ -63,3 +61,5 @@ output/summaries.json
   }
 ]
 ```
+
+# Пример выхода лежит внутри папки output
