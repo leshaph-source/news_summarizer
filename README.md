@@ -48,7 +48,7 @@ id,title,text
 Файл
 
 ```
-outputsummaries.json
+summaries.json
 ```
 
 Формат
